@@ -40,65 +40,39 @@
 
 2. Microsoft Learnの初回設定の画面が表示されます。「次へ」をクリックします。
 
-   > 注意：既に初回設定が終えている場合は手順9までスキップします。
+   > 注意：既に初回設定が終えている場合は手順6までスキップします。
 
-   <img src="./media/Learn07.BMP" alt="Learn07" style="zoom:67%;" />　
+   <img src="./media/Learn07.BMP" alt="Learn07" style="zoom:30%;" />　
 
    
 
 3. 表示名にニックネームなどを入力し、「**次へ**」をクリックします。
 
-   <img src="./media/Learn08.BMP" alt="Learn08" style="zoom:67%;" />　
+   <img src="./media/Learn08.BMP" alt="Learn08" style="zoom:30%;" />　
 
    
 
-4. 「国/地域」に日本を指定し、「**次へ**」をクリックします。
+4. 「国/地域」に日本を指定し、「**スキップ**」をクリックします。
 
-   > ※「スキップ」をクリックしてもＯＫです。
-
-   <img src="./media/Learn09.BMP" alt="Learn09" style="zoom:67%;" />　 
-
-   
-
-5. 「興味のあるロール」を自由に選択し「**次へ**」をクリックします。
-
-   > ※「まだわかりません」をクリックしてもＯＫです。
-
-   ​    <img src="./media/Learn10.BMP" alt="Learn10" style="zoom:67%;" />　 
-
-   
-
-6. 該当するレベルを選択し、「次へ」をクリックします。
-
-   > ※「まだわかりません」をクリックしてもＯＫです。
-
-   <img src="./media/Learn11.BMP" alt="Learn11" style="zoom:67%;" />　 
-
-   
-
-7. 該当する製品を選択し、「次へ」をクリックします。
-
-   > ※「まだわかりません」をクリックしてもＯＫです。
-
-   <img src="./media/Learn12.BMP" alt="Learn12" style="zoom:67%;" />　
+   <img src="./media/Learn09.BMP" alt="Learn09" style="zoom:30%;" />　 
 
    
 
 8. 「準備が完了しました」と表示されます。「Learnに戻る」をクリックします。
 
-   <img src="./media/Learn13.BMP" alt="Learn13" style="zoom:67%;" /> 
+   <img src="./media/Learn13.BMP" alt="Learn13" style="zoom:30%;" /> 
 
    
 
 9. 「コードを引き換える」画面が表示されます。「引き換える」をクリックします。
 
-   ![Learn18](./media/Learn18.BMP)　
+   <img src="./media/Learn18.BMP" alt="Learn18" style="zoom:33%;" />　
 
    
 
 10. 「実績がプロファイルに追加されました」と表示されます。「プロファイルの表示」をクリックします。
 
-     ![Learn19](./media/Learn19.BMP)
+     <img src="./media/Learn19.BMP" alt="Learn19" style="zoom:33%;" />
 
 
 
