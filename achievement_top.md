@@ -42,37 +42,37 @@
 
    > 注意：既に初回設定が終えている場合は手順6までスキップします。
 
-   <img src="./media/Learn07.png" alt="Learn07"  width="320px" />　
+   <img src="./media/Learn07.png" alt="Learn07"  width="480px" />　
 
    
 
 3. 表示名にニックネームなどを入力し、「**次へ**」をクリックします。
 
-   <img src="./media/Learn08.png" alt="Learn08" width="320px" />　
+   <img src="./media/Learn08.png" alt="Learn08" width="480px" />　
 
    
 
 4. 「国/地域」に日本を指定し、「**スキップ**」をクリックします。
 
-   <img src="./media/Learn09.png" alt="Learn09" width="320px" />　 
+   <img src="./media/Learn09.png" alt="Learn09" width="480px" />　 
 
    
 
 8. 「準備が完了しました」と表示されます。「Learnに戻る」をクリックします。
 
-   <img src="./media/Learn13.png" alt="Learn13" width="320px" /> 
+   <img src="./media/Learn13.png" alt="Learn13" width="480px" /> 
 
    
 
 9. 「コードを引き換える」画面が表示されます。「引き換える」をクリックします。
 
-   <img src="./media/Learn18.png" alt="Learn18" width="320px" />　
+   <img src="./media/Learn18.png" alt="Learn18" width="480px" />　
 
    
 
 10. 「実績がプロファイルに追加されました」と表示されます。「プロファイルの表示」をクリックします。
 
-     <img src="./media/Learn19.png" alt="Learn19" width="320px" />
+     <img src="./media/Learn19.png" alt="Learn19" width="480px" />
 
 
 
