@@ -42,25 +42,25 @@
 
    > 注意：既に初回設定が終えている場合は手順6までスキップします。
 
-   <img src="./media/Learn07.BMP" alt="Learn07" style="zoom:30%;" />　
+   <img src="./media/Learn07.BMP" alt="Learn07" style="zoom:20%;" />　
 
    
 
 3. 表示名にニックネームなどを入力し、「**次へ**」をクリックします。
 
-   <img src="./media/Learn08.BMP" alt="Learn08" style="zoom:30%;" />　
+   <img src="./media/Learn08.BMP" alt="Learn08" style="zoom:20%;" />　
 
    
 
 4. 「国/地域」に日本を指定し、「**スキップ**」をクリックします。
 
-   <img src="./media/Learn09.BMP" alt="Learn09" style="zoom:30%;" />　 
+   <img src="./media/Learn09.BMP" alt="Learn09" style="zoom:20%;" />　 
 
    
 
 8. 「準備が完了しました」と表示されます。「Learnに戻る」をクリックします。
 
-   <img src="./media/Learn13.BMP" alt="Learn13" style="zoom:30%;" /> 
+   <img src="./media/Learn13.BMP" alt="Learn13" style="zoom:20%;" /> 
 
    
 
